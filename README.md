@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a technology enthusiast, always exploring and 
   # Now Playing on Spotify🎧
   
   I enjoy listening to music while exploring new technologies.
-  
-  [![Spotify](https://novatorem-spotify-git-main-jhoel-villcas-projects.vercel.app/api/spotify)]()
-  
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-spotify-git-main-jhoel-villcas-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
+</div>

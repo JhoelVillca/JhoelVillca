@@ -20,8 +20,10 @@ Welcome to my GitHub profile! I'm a technology enthusiast, always exploring and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelVillca&layout=compact)](https://github.com/JhoelVillca/github-readme-stats)
 
-
-
 ---
-[![Spotify](https://novatorem-spotify-git-main-jhoel-villcas-projects.vercel.app/api/spotify)]()
-
+  # Now Playing on Spotify🎧
+  
+  I enjoy listening to music while exploring new technologies.
+  
+  [![Spotify](https://novatorem-spotify-git-main-jhoel-villcas-projects.vercel.app/api/spotify)]()
+  

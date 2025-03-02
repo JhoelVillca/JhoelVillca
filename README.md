@@ -20,4 +20,4 @@ Welcome to my GitHub profile! I'm a technology enthusiast, always exploring and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelVillca&layout=compact)](https://github.com/JhoelVillca/github-readme-stats)
 
-![Exploring Robot Animation](URL_DE_TU_ANIMACION_SVG)
+[![Spotify](https://https://novatorem-spotify-j3y0jl3xv-jhoel-villcas-projects.vercel.app/api/spotify)]

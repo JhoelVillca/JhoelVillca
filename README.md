@@ -14,12 +14,6 @@ Welcome to my GitHub profile! I'm a technology enthusiast, always exploring and 
 * Continuous learning.
 * Collaboration in technology projects.
 
-## Connect with me!
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhoelVillca&show_icons=true&theme=radical)](https://github.com/JhoelVillca)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelVillca&layout=compact)](https://github.com/JhoelVillca/github-readme-stats)
-
 ---
   # Now Playing on Spotify🎧
   

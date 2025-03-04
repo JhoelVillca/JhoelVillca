@@ -20,5 +20,5 @@ Welcome to my GitHub profile! I'm a technology enthusiast, always exploring and 
   I enjoy listening to music while exploring new technologies.
 
 &nbsp;<div align="center">
-  [![Spotify](https://github.com/JhoelVillca/JhoelVillca/blame/main/Efectoneon.svg)]()
+  [![Spotify](https://github.com/JhoelVillca/JhoelVillca/blob/main/Efectoneon.svg)]()
 </div>

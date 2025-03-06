@@ -1,4 +1,4 @@
-# Hi! I'm Jhoel Mauricio Villca Villca (JhoelVillca)
+# Hi! I'm Jhoel
 
 Welcome to my GitHub profile! I'm a technology enthusiast, always exploring and learning.
 

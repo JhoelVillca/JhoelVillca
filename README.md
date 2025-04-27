@@ -20,4 +20,4 @@ Welcome to my GitHub profile! I'm a technology enthusiast, always exploring and 
   I enjoy listening to music while exploring new technologies.
 
   
- [![Mi Actividad en Spotify](https://lyric-frame.vercel.app/)](https://open.spotify.com/)
+ [![Mi Actividad en Spotify](https://lyric-frame.vercel.app/)](https://lyric-frame.vercel.app/)

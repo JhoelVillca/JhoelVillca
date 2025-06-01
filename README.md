@@ -1,23 +1,56 @@
-# Hi! I'm Jhoel
+# 👋 Hi, I'm Jhoel!
 
-Welcome to my GitHub profile! I'm a technology enthusiast, always exploring and learning.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=Technology%20Enthusiast&color=blue" alt="Technology Enthusiast"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Continuous%20Learner&color=green" alt="Continuous Learner"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Development%20Enthusiast&color=orange" alt="Development Enthusiast"/>
+</div>
 
-## About me
+## 💫 About Me
 
-* I'm passionate about discovering new technologies and how they work.
-* I'm constantly learning and seeking opportunities to expand my knowledge.
-* I enjoy collaborating and sharing what I learn with others.
+Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in the world of development.
 
-## Interests
+- 🌱 Currently learning new technologies
+- 💡 I love discovering how things work
+- 🤝 Looking to collaborate on interesting projects
 
-* Exploring new technologies.
-* Continuous learning.
-* Collaboration in technology projects.
+## 🎧 Listening on Spotify
+
+<div align="center">
+  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/jhoelvillca)
+
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://github.com/JhoelVillca">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:jhoelmauriciobebe@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
-  # Now Playing on Spotify🎧 
-  
-  I enjoy listening to music while exploring new technologies.
 
+<div align="center">
   
- [![Mi Actividad en Spotify](https://lyric-frame.vercel.app/)](https://lyric-frame.vercel.app/)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JhoelVillca&show_icons=true&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoelVillca&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelVillca&layout=compact&theme=tokyonight)](https://github.com/JhoelVillca)
+
+</div>

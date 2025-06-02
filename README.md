@@ -18,7 +18,7 @@ Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in 
 
 <div align="center">
   
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://lyric-frame.vercel.app/)
+[![Spotify](https://lyric-frame.vercel.app/)](https://lyric-frame.vercel.app/)
 
 </div>
 

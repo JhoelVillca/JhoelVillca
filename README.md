@@ -28,7 +28,7 @@ Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in 
   <a href="https://github.com/JhoelVillca">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:jhoelmauriciobebe@gmail.com">
+  <a href="mailto:jhoel.mv.villca.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>

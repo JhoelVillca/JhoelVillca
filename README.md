@@ -41,12 +41,12 @@ Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in 
 
 </div>
 
----
+<!-- ---
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoelVillca&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
-
+-->
 ---
 
 <div align="center">

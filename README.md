@@ -7,10 +7,11 @@
 <h1 align="center">
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=random&text=Hi%20,%20I'm%20Jhoel&reversal=true&section=header&animation=fadeIn&fontColor=651C32">
 
-</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=4999&pause=1000&color=F70000&width=435&lines=What+are+u+doing+here?;Hello?;Is+some+one+here?;I+see+you+.-.;Okay,+I+think+there+is+no+one;"></a>
 </p>
+</h1>
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Technology%20Enthusiast&color=blue" alt="Technology Enthusiast"/>
@@ -27,6 +28,7 @@ Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in 
 - 💡 I love discovering how things work
 - 🤝 Looking to collaborate on interesting projects
 
+
 ## 🎧 Listening on Spotify
 
 <div align="center">
@@ -37,8 +39,6 @@ Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in 
 
 ## Let's Connect!
 
-
-
 <div align="center">
   <a href="https://github.com/JhoelVillca">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
@@ -46,7 +46,7 @@ Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in 
   <a href="mailto:jhoel.mv.villca.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="HOLA.HTML">
+  <a href="https://wa.me/59172367248">
   <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
 </div>

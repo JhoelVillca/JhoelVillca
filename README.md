@@ -31,9 +31,11 @@ Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in 
 
 ## 🎧 Listening on Spotify
 
+
+
 <div align="center">
 
-[![Spotify](https://lyric-frame.vercel.app/)](https://lyric-frame.vercel.app/)
+[![Spotify](https://lyricframe-rs-5qss.vercel.app/api)](https://lyric-frame.vercel.app/)
 
 </div>
 

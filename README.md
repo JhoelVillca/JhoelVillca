@@ -53,18 +53,6 @@ Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in 
   </a>
 </div>
 
-<div align="center">
-
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhoelVillca&theme=transparent" alt="GitHub Streak Stats"/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JhoelVillca&show_icons=true&theme=algolia" alt="GitHub Streak Stats"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JhoelVillca&theme=shadow-red&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak Stats"/>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JhoelVillca&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
 </div>
 

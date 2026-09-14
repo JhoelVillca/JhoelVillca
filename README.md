@@ -35,7 +35,7 @@ Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in 
 
 <div align="center">
 
-[![Spotify](https://lyricframe-rs-5qss.vercel.app/api)](https://lyric-frame.vercel.app/)
+[![Spotify](https://centralizer.fly.dev/)](https://lyric-frame.vercel.app/)
 
 </div>
 

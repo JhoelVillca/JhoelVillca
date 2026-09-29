@@ -20,22 +20,20 @@
   <img src="https://komarev.com/ghpvc/?username=JhoelVillca&style=flat-square&color=red"/>
 </div>
 
-## 💫 About Me
 
-Welcome to my GitHub space! I'm a technology enthusiast beginning my journey in the world of development.
-
-- 🌱 Currently learning new technologies
-- 💡 I love discovering how things work
-- 🤝 Looking to collaborate on interesting projects
-
-
-## 🎧 Listening on Spotify
-
-
+## Listening msuic 
 
 <div align="center">
 
 [![Spotify](https://centralizer.fly.dev/)](https://lyric-frame.vercel.app/)
+
+</div>
+
+## If you are bored :)
+
+<div align="center">
+
+[Click Here (●'◡'●)](https://yuldancwia-b.pages.dev/?ref=GitHub)
 
 </div>
 
